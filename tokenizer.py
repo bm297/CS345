@@ -1,7 +1,5 @@
 biglst = []
 #step 2 tokenizer
-# FIRST PARAMETER IS JUST THE STEP1.TXT
-# SECOND PARMETER IS THE DIRECTORY WE ARE SUPPOSE TO USE
 def token(gdir):
 
         #open step1file
