@@ -112,9 +112,3 @@ def stem(gdir):
         s5file.write('\n')
     s5file.close()
 
-        
-        
-    
-    
-
-stem(0)
