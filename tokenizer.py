@@ -103,4 +103,3 @@ def checkword(word):
 def tokendebug():
 	print("DEBUG")
 
-token(0)
