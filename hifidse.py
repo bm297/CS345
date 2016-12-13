@@ -105,7 +105,7 @@ def main():
             # Create file step1.txt
             file = open("step1.txt", "w")
             cwd = "/home"
-            search(sys.argv[2], cwd, file)
+            search(sys.argv[2].lower(), cwd, file)
             file.close()
         elif(sys.argv[1].lower() == "token"):
             token("step1.txt")
