@@ -12,3 +12,5 @@ Token Bugs<br><br>
 
 3) Offsets start with 1 and not 0 <br>
 			(5,algorithms,1,0)
+
+https://web.njit.edu/~alexg/courses/cs345/handouts/w6345f16.pdf
